@@ -5,6 +5,7 @@
   "CSS": ["css"],
   "Erlang": ["erl", "hrl"],
   "Go": ["go"],
+  "Haskell": ["hs", "hsc"],
   "HTML": ["html"],
   "Java": ["java"],
   "Javascript": ["js", "es6"],
