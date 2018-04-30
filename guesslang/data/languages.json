@@ -18,6 +18,5 @@
   "Rust": ["rs"],
   "Scala": ["scala"],
   "Shell": ["sh"],
-  "SQL": ["sql"],
   "Swift": ["swift"]
 }
